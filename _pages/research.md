@@ -1,0 +1,11 @@
+---
+permalink: /research/
+title: "Research and Publications"
+---
+1. Energy Modelling and Air Quality: I take a new approach to incorporating energy futures into air quality modelling, focusing on energy generating unit (EGU) specific changes due to policy measures. I've assisted in the development of US-EGO, an EGU specific energy grid optimization tool that allows for construction of with and without policy scenarios in the United States, and subsequent chemical transport modelling of the emission changes and their impact on air quality. This framework is an improvement on the typical format of linear regressions that are used to assess changes after they occur, and allows us to think about future energy policy in a more robust manner. 
+
+2. Future emissions and transport: The most recent CMIP6 data has updates to the 'policy' scenarios such that pollutants are no longer projected to decrease globally across all scenarios. Each of the SSP scenarios has changes in emissions that vary by region. I am looking into the importance of the role of the location of these emissions on climate and human impacts in order to understand the ties between the chemical regimes and larger scale atmospheric dynamics under climate change.
+
+3. Chemical regimes: Particulate matter and ozone are two of the more well studied air pollutants due to their health impacts. I focus on reducing modelled bias in both pollutants by improving how we model nitrogen oxide emissions in comparison to observations. 
+
+4. Rural Energy Development: As countries continue to increase their use of coal and natural gas, particularly developing nations that are already facing large pollution problems, it is important to understand the shifts that may occur in chemical regimes as these projects are followed through. I focus on the concept of 'pollution exporting' and how different countries shift their pollution to rural regions or other countries in order to meet regulatory requirements while maintaining economic growth, and look at the role this has on air quality in these rural regions.
