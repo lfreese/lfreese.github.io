@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-layout: splash
 
 title: Lyssa Freese
 email: emfreese [at] mit.edu
@@ -25,6 +24,7 @@ minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
+layout: splash
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
@@ -60,18 +60,15 @@ plugins:
 author:
   avatar : "/assets/images/Head-shot-square.jpeg"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
+header:
+  image: /assets/images/masks.jpg
 
 footer:
   links:
@@ -81,9 +78,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
