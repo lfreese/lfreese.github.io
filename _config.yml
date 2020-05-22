@@ -68,10 +68,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
-header:
-  overlay_image image: /assets/images/masks.jpg
-  overlay_filter: 0.5
-
 footer:
   links:
     - label: "Twitter"
