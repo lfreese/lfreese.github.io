@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research and Publications"
+title: "Research Topics"
 ---
 1. Energy Modelling and Air Quality: I take a new approach to incorporating energy futures into air quality modelling, focusing on energy generating unit (EGU) specific changes due to policy measures. I've assisted in the development of US-EGO, an EGU specific energy grid optimization tool that allows for construction of with and without policy scenarios in the United States, and subsequent chemical transport modelling of the emission changes and their impact on air quality. This framework is an improvement on the typical format of linear regressions that are used to assess changes after they occur, and allows us to think about future energy policy in a more robust manner. 
 
