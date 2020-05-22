@@ -3,7 +3,7 @@ permalink: /
 #hidden: true
 
 header:
-  overlay_image image: /assets/images/masks.jpg
+  overlay_image: /assets/images/masks.jpg
   overlay_filter: 0.5
   
 ---
