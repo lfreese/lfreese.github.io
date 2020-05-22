@@ -2,37 +2,9 @@
 layout: splash
 permalink: /
 hidden: true
+excerpt:
+  "I am a PhD student researching the intersection of atmospheric chemistry, energy systems, climate, and policy at the Massachusetts Institute of Technology. I work with Noelle Selin in the Department of Earth, Atmosphere and Planetary Sciences. My research aims to understand the influence climate has on historical and future air quality, the impacts that humans have had on the chemical composition of the atmosphere, and what policies and energy decisions are best for mitigating climate change and air pollution. Prior to starting my PhD, I worked at the Rock Energy and Environment institute in Beijing, China; for Green Camel Bell in Lanzhou, China; and for the Wilson Center's China Environment Forum in Washington, D.C. I graduated with a B.Sc. in Science, Technology and International Affairs from Georgetown University's School of Foreign Service. If you are interested in any of these topics, please feel free to get in touch!"
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2">Latest release v4.19.2</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  overlay_image image: /assets/images/masks.jpg
+  overlay_filter: 0.5
 ---
-
-{% include feature_row %}
