@@ -7,9 +7,12 @@ Justice, equity, diversity and inclusion are critical to progress not only in so
 
 **Co-Coordinator of Application Mentorship Program**
 I have served as the co-coordinator for our application mentorship program, which aims to provide support for graduate applicants who may not have access to the mentorship they need in applying to graduate school. I coordinate the assignment of mentors, training of mentors, and evaluation of the program. 
+
 **Co-Creator, Reading Course on Racism, Colonialism, and Extraction in the Geosciences**
 I co-lead a course in our department on the historical and social context of the geosciences. This course is run as a participatory seminar where we discuss relevant work on philosophies and methodologies of science, the geosciences in relation to extractivism and colonialism, and environmental justice and racism.
+
 **Student Representative on EAPS DEI-Committee** 
 I have acted as one of two student representatives on our recently re-instated DEI-Committee. As a student representative, I collaborate with faculty, staff, researchers and students on and off the committee to set priorities, develop action plans, and implement them. My personal focus has been advocating for and serving on the hiring committee for a DEI-Officer, serving as an intermediary between the student body and the committee, and working to collect data on DEI relevant issues in our department on an annual basis. 
+
 **Co-Author of Research on Gender Equity**
 One of my interests is providing data driven research on JEDI in the geosciences. This work can be found in my publications tab, or below.
