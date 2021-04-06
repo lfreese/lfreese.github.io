@@ -1,7 +1,9 @@
 main:
   - title: "Scientific Research"
     url: /research/
-  - title: "CV"
-    url: /CV/
   - title: "JEDI"
     url: /JEDI/
+  - title: "Publications"
+    url: /Publications/
+  - title: "CV"
+    url: /CV/
