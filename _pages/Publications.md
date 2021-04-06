@@ -1,3 +1,8 @@
+---
+permalink: /Publications/
+title: "Publications"
+---
+
 ## Academic Work
 **Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear Power Plant Shutdowns: Impact on Particulate Matter and Ozone across the United States, in prep.
 
