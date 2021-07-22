@@ -17,4 +17,3 @@ Similar to my work with  Black Carbon, C$_2$, and Mercury, I use Green's functio
 
 
 
-Freese, L.M., Chossiere, G., Eastham, S., Selin, N. (2021) *Nuclear Power Plant Shutdowns: Impact on Particulate Matter and Ozone across the United States*, in prep.
