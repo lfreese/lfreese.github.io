@@ -6,9 +6,9 @@ title: "Publications"
 ## Academic Work
 **Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear Power Plant Shutdowns: Impact on Particulate Matter and Ozone across the United States, in prep.
 
-**Freese, L.M.**, Cronin, T.W. Antarctic Radiative and Temperature responses to a doubling of CO2, "[doi.org/10.1029/2021GL093676]( https://doi.org/10.1029/2021GL093676)"
+**Freese, L.M.**, Cronin, T.W. Antarctic Radiative and Temperature responses to a doubling of CO2, [doi.org/10.1029/2021GL093676]( https://doi.org/10.1029/2021GL093676)
 
-Ranganathan, M., Lalk, E., **Freese, L.M.**, Freilich, M.A., Wilcots, J., Duffy, M.L., Shivamoggi, R., Trends in the representation of women amongst geoscience faculty from 1999-2020: the long road towards gender parity, "[doi:10.1002/essoar.10506485.1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021AV000436)"
+Ranganathan, M., Lalk, E., **Freese, L.M.**, Freilich, M.A., Wilcots, J., Duffy, M.L., Shivamoggi, R., Trends in the representation of women amongst geoscience faculty from 1999-2020: the long road towards gender parity, [doi:10.1002/essoar.10506485.1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021AV000436)
 
 ## Op-eds and News Articles
 
