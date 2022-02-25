@@ -3,9 +3,9 @@ permalink: /
 hidden: true
 
 header:
-  overlay_image: /assets/images/header.jpg
-  overlay_filter: 0.2
-  
+  image: /assets/images/header.jpeg
+  image_description: "Person working with a temperature and air monitor in the desert"
+  image_description: "Community science work in the Gobi Desert, China"  
 ---
 I am a PhD candidate at the Massachusetts Institute of Technology, working with Noelle Selin.
 
