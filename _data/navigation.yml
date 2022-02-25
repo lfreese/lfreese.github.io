@@ -1,8 +1,8 @@
 main:
-  - title: "Scientific Research"
+  - title: "Research"
     url: /research/
-  - title: "DEI-J"
-    url: /DEI-J/
+  - title: "Teaching and JEDI"
+    url: /Teaching and JEDI/
   - title: "Publications"
     url: /Publications/
   - title: "CV"

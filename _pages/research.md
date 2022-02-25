@@ -1,19 +1,32 @@
 ---
 permalink: /research/
-title: "Scientific Research"
+title: "Research"
 ---
-**Social and Earth System Feedbacks: Air Quality and Climate** 
+# Social and Earth System Feedbacks: Air Quality and Climate
 
-As states and countries commit to large-scale climate policies, it is important to consider the convergence of the impact of these climate policies on air quality, as well as the impact of air quality and climate on these policies. Using a combination of chemical transport models, mathematical tools, and social impact assessment tools, I research the intersection of the social and earth sciences in regards to climate and air quality. I aim for all of my work to be translated into tools or solutions that can aid in policy-making and solutions for the joint issue of climate and air quality, with a particular focus on how we can incorporate environmental justice and holistic sustainable development goals into our policy approaches. 
+My research is on the impact of various energy policies on air quality, climate, health and equity; I focus on various spatial scales, from community science, to national and global assessments. My research informs tools and solutions that can aid in policy-making and solutions to improve environmental equity, reduce the impacts of climate change, and incorporate holistic sustainable development goals at the local and global scale.
 
-1. **Spatial Variability in Social Feedbacks on the Earth System:** 
-This work merges energy grid models, often found in the social and energy research space, with chemical transport models, used in the earth sciences, to understand the impact of energy policy on air quality and climate. I've assisted in the development of US-EGO, an EGU specific energy grid optimization tool that allows for construction of policy scenarios in the United States, and subsequent chemical transport modelling of the emission changes and their impact on air quality. This framework is an improvement on the typical format of linear regressions that are used to assess changes after they occur, and allows us to think about future energy policy and its impacts at a local scale. My current work investigates the impact that nuclear power plant shut-downs would have on air quality and climate in the United States.
+## Core Themes 
+### Interdisciplinary Modeling
+I use systems modeling, including chemical transport models, energy models, and climate model data to analyze air quality and climate impacts of energy systems.
 
-2. **Intersection between Social and Earth System Responses to Coal Power Plants across Space and Time**
-Making use of a number of mathematical tools, I simplify our ability to understand the earth system responses to Black Carbon, CO$_2$, and Mercury. This work creates a methodology that can be used to assess the impact of a given emission source on local, regional, and global areas over varying lifetimes of the source of emissions. This method allows us to think about the intersection temporal variation in the earth and social systems, where the lifetime of an emission source, the lifetime of its pollutants, and the timeline of the pollutant's impacts are all varying and important to consider. Additionally this method allows us to simply assess the important components in spatial variability on emissions and their impacts. I apply this methodology to look at databases of coal powerplants globally, and assess the importance of their emissions, location, source of funding, amongst other sustainable development issues such as proximity to protected lands. 
+### Policy Oriented
+My work answers questions that are policy relevant, informing local, national and global regulatory bodies of important sustainability considerations.
 
-3. **Spatial and Temporal Variability of Ozone Responses to Large and Small Scale Emissions Changes**
-Similar to my work with  Black Carbon, CO$_2$, and Mercury, I use Green's functions to create a methodology that can allow us to look at ozone formation across different background conditions, seasons, and other spatially relevant features. As ozone is a non-linear pollutant that depends on background VOC and NO$_x$ concentrations, I use a series of pulse emission model runs from GEOS-Chem to assess the most important spatial and temporal factors to consider in a mathematical function that represents ozone formation from a given pollution source. The aim of this work is to provide a simple method that can allow for impact assessments of individual pollution sources on ozone across multiple timescales and spatial scales, without having to run complicated Chemical Transport Models. 
+### Community Informed
+I work with local communities to root my work in local contexts, particularly focusing on equity and justice of the energy transition.
+
+
+## Current Projects
+
+1. **Energy Decisions and their Impacts on Air Quality and Climate in the United States** 
+This work merges energy grid models, often found in the social and energy research space, with chemical transport models, used in the earth sciences, to understand the impact of energy policy on air quality and climate. I've assisted in the development of US-EGO, an EGU specific energy grid optimization tool that allows for construction of policy scenarios in the United States, and subsequent chemical transport modelling of the emission changes and their impact on air quality. This framework is an improvement on the typical format of linear regressions that are used to assess changes after they occur, and allows us to think about future energy policy and its impacts at a local scale. An example of this work is investigating the impact of coal and nuclear power plant closures on air quality, climate and health in the United States.
+
+2. **Reduced form Modeling of Black Carbon, CO$_2$ and Mercury and Ensembles of Policy Scenarios**
+Climate science often makes use of ensembles of models, perturbing the starting conditions to get a range of possible responses. However, policy scenarios rarely do the same, particularly when we apply them in climate models. This work aims to improve our ability to analyze ensembles of policy scenarios and their impact on Black Carbon, CO$_2$, and Mercury. Making use of mathematical tools (specifically, Green's Functions), I simplify our ability to understand the earth system responses to Black Carbon, CO$_2$, and Mercury. This work creates a methodology that can be used to assess the impact of a given emission source on local, regional, and global areas over varying lifetimes of the source of emissions. This method allows us to think about the intersection of temporal variation in the earth and social systems, where the lifetime of an emission source, the lifetime of its pollutants, and the timeline of the pollutant's impacts are all varying and important to consider. This work is currently being applied to a databases of coal powerplants globally, where I assess the importance of their emissions, location, source of funding, amongst other sustainable development issues such as proximity to protected lands. 
+
+3. **Community Science Led Air Quality Monitoring**
+As a scientist for the [American Geophysical Union's Thriving Earth Exchange](https://thrivingearthexchange.org/), I have the opportunity to work with a community group based in Ohio, where they are monitoring and quantifying the impacts of unconventional oil and gas development on the air quality in the region. All of our work is guided by [Concerned Ohio River Residents](https://www.concernedohioriverresidents.org/) priorities. This has led to the creation of a local network of air quality monitors for VOC's and PM$_2.5$. We work alongside a number of other organizations in the region, including Fractracker, the Environmental Health Project, and the Carnegie Mellon University's CREATE lab. 
 
 
 
