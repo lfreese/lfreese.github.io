@@ -3,7 +3,7 @@ permalink: /
 hidden: true
 
 header:
-  overlay_image: /assets/images/IMG_7454.jpeg
+  image: /assets/images/IMG_7454.jpeg
   image_description: "Person working with a temperature and air monitor in the desert"
   image_description: "Community science work in the Gobi Desert, China"  
 ---
