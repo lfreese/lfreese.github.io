@@ -19,5 +19,7 @@ I have acted as one of two student representatives on our [DEI-Committee](https:
 
 ## Mentorship and Teaching ##
 Research Advisor: Gabby Cazeres (Fall 2019 and Spring 2020), Yuka Perera (Summer 2020)
+
 Teaching Assistant: People and the Planet: Environmental Governance and Science (Undergraduate Course, Fall 2021)
+
 Kaufman Teaching Certificate Program, Spring, 2022
