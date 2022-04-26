@@ -9,7 +9,7 @@ title: "Publications"
 
 **Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear and Coal Power Generation Phaseouts Redistribute U.S. Air Quality and Climate Related Mortality Risk, 2022, *Submitted to PNAS*.
 
-Garima Raheja, Leatra Harper, Ana Hoffman, Yuri Gorby, **Freese, L.M.**, Brendan O’Leary, Melissa Goodwin, Daniel M. Westervelt. Community-Based Participatory Research for Low-Cost Air Pollution Monitoring in the Wake of Unconventional Oil and Gas Development in the Ohio River Valley - Empowering Impacted Residents through Community Science, 2022, *in review at Environmental Research Letters*. 
+Garima Raheja, Leatra Harper, Ana Hoffman, Yuri Gorby, **Freese, L.M.**, Brendan O’Leary, Melissa Goodwin, Daniel M. Westervelt. Community-Based Participatory Research for Low-Cost Air Pollution Monitoring in the Wake of Unconventional Oil and Gas Development in the Ohio River Valley - Empowering Impacted Residents through Community Science, 2022, *accepted, Environmental Research Letters*. 
 
 **Freese, L.M.**, Cronin, T.W. Antarctic Radiative and Temperature responses to a doubling of CO2, 2021, *Geophysical Research Letters*. [doi.org/10.1029/2021GL093676]( https://doi.org/10.1029/2021GL093676)
 
