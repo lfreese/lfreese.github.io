@@ -1,10 +1,8 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Social and Earth Systems at Local and Global Scales"
 ---
-# Social and Earth System Feedbacks: Air Quality and Climate
-
-My research is on the impact of various energy policies on air quality, climate, health and equity; I focus on various spatial scales, from community science, to national and global assessments. My research informs tools and solutions that can aid in policy-making and solutions to improve environmental equity, reduce the impacts of climate change, and incorporate holistic sustainable development goals at the local and global scale.
+My research is on the impact of various energy policies on air quality, climate, health and equity; I focus on multiple spatial scales, from community science, to national and global assessments. My research informs tools and solutions that can aid in policy-making and solutions to improve environmental equity, reduce the impacts of climate change, and incorporate sustainable development goals at the local and global scale.
 
 ## Core Themes 
 ### Interdisciplinary Modeling
