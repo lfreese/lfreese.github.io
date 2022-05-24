@@ -12,7 +12,7 @@ I use systems modeling, including chemical transport models, energy models, and 
 My work answers questions that are policy relevant, informing local, national and global regulatory bodies of important sustainability considerations.
 
 ### Community Informed
-I work with local communities to root my work in local contexts, particularly focusing on equity and justice of the energy transition.
+I work with communities to root my work in local contexts, particularly focusing on equity and justice of the energy transition.
 
 
 ## Current Projects
@@ -24,7 +24,7 @@ This work merges energy grid models, often found in the social and energy resear
 Climate science often makes use of ensembles of models, perturbing the starting conditions to get a range of possible responses. However, policy scenarios rarely do the same, particularly when we apply them in climate models. This work aims to improve our ability to analyze ensembles of policy scenarios and their impact on Black Carbon, CO$_2$, and Mercury. Making use of mathematical tools (specifically, Green's Functions), I simplify our ability to understand the earth system responses to Black Carbon, CO$_2$, and Mercury. This work creates a methodology that can be used to assess the impact of a given emission source on local, regional, and global areas over varying lifetimes of the source of emissions. This method allows us to think about the intersection of temporal variation in the earth and social systems, where the lifetime of an emission source, the lifetime of its pollutants, and the timeline of the pollutant's impacts are all varying and important to consider. This work is currently being applied to a databases of coal powerplants globally, where I assess the importance of their emissions, location, source of funding, amongst other sustainable development issues such as proximity to protected lands. 
 
 3. **Community Science Led Air Quality Monitoring**
-As a scientist for the [American Geophysical Union's Thriving Earth Exchange](https://thrivingearthexchange.org/), I have the opportunity to work with a community group based in Ohio, where they are monitoring and quantifying the impacts of unconventional oil and gas development on the air quality in the region. All of our work is guided by [Concerned Ohio River Residents](https://www.concernedohioriverresidents.org/) priorities. This has led to the creation of a local network of air quality monitors for VOC's and PM$_2.5$. We work alongside a number of other organizations in the region, including Fractracker, the Environmental Health Project, and the Carnegie Mellon University's CREATE lab. 
+As a scientist for the [American Geophysical Union's Thriving Earth Exchange](https://thrivingearthexchange.org/), I have the opportunity to work with a community group based in Ohio, where they are monitoring and quantifying the impacts of unconventional oil and gas development on the air quality in the region. All of our work is guided by [Concerned Ohio River Residents](https://www.concernedohioriverresidents.org/) priorities. This has led to the creation of a local network of air quality monitors for VOC's and PM$_{2.5}$. We work alongside a number of other organizations in the region, including Fractracker, the Environmental Health Project, and the Carnegie Mellon University's CREATE lab. 
 
 
 
