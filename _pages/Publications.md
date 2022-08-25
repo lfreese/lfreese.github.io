@@ -7,7 +7,7 @@ title: "Publications"
 
 **Freese, L. M.**, Eastham, S., Selin, N. Black Carbon Climate and Health Impacts of Coal Power Plant Lifetimes, Locations and Funders through the creation of a Reduced Form Model, *in prep*.
 
-**Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear and Coal Power Generation Phaseouts Redistribute U.S. Air Quality and Climate Related Mortality Risk, 2022, *Under Revision, Nature Energy*.
+**Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear and Coal Power Generation Phaseouts Redistribute U.S. Air Quality and Climate Related Mortality Risk, 2022, *Under Revision, Nature Energy* [preprint](https://www.essoar.org/doi/10.1002/essoar.10510994.1).
 
 Garima Raheja, Leatra Harper, Ana Hoffman, Yuri Gorby, **Freese, L.M.**, Brendan O’Leary, Melissa Goodwin, Daniel M. Westervelt. Community-Based Participatory Research for Low-Cost Air Pollution Monitoring in the Wake of Unconventional Oil and Gas Development in the Ohio River Valley - Empowering Impacted Residents through Community Science, 2022, *accepted, Environmental Research Letters*. [doi.org/10.1088/1748-9326/ac6ad6](https://iopscience.iop.org/article/10.1088/1748-9326/ac6ad6) 
 
