@@ -4,8 +4,10 @@ hidden: true
 
 header:
   image: /assets/images/IMG_7454.jpeg
-  image_description: "Person working with a temperature and air monitor in the desert"
-  image_description: "Community science work in the Gobi Desert, China"  
+  image_description: Person working with a temperature and air monitor in the desert
+  caption: Community science work in the Gobi Desert, China 
+  tagline: Climate, Air, and Energy Modeling
+
 ---
 I am a PhD candidate in Atmospheric Science at the Massachusetts Institute of Technology, working with Noelle Selin, with an educational background in atmospheric chemistry, climate physics, and environmental policy.
 
