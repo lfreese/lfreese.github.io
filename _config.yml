@@ -61,20 +61,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/IMG_8765 2.jpeg"
+  avatar : "/assets/images/headshot.jpeg"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-0944-2182"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=zVxEqwIAAAAJ&hl=en"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lyssafreese"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lfreese"
 
 
 defaults:
