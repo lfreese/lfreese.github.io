@@ -18,7 +18,7 @@ title: Lyssa Freese
 email: emfreese [at] mit.edu
 subtitle: Climate, Air, and Energy
 name: Lyssa Freese
-description: I am a PhD student researching the intersection of atmospheric chemistry, energy systems, climate, and policy at the Massachusetts Institute of Technology.
+description: I am a PhD student researching the climate, air quality, energy, and equity at the Massachusetts Institute of Technology.
 
 twitter_username: LyssaFreese
 github_username: lfreese
@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/Head-shot-square.jpeg"
+  avatar : "/assets/images/IMG_8765 2.jpeg"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
