@@ -11,11 +11,9 @@ title: "Publications"
 
 **Freese, L. M.**, Han Springer, C., Eastham, S., Selin, N. Ensembles of Early Coal Retirement Trajectories In Southeast Asia-- Air Quality, Health, and Climate Impacts through a Reduced Form Black Carbon Model, *in prep for Atmospheric Chemistry and Physics*.
 
-### Accepted
-
-**Freese, L.M.**, Chossiere, G., Eastham, S., Selin, N. Nuclear and Coal Power Generation Phaseouts Redistribute U.S. Air Quality and Climate Related Mortality Risk, 2022, *Accepted, Nature Energy* [preprint](https://www.essoar.org/doi/10.1002/essoar.10510994.1).
-
 ### Published
+
+**Freese, L. M.**, Chossiere, G., Eastham, S., Jenn, A., Selin, N. Eliminating Nuclear and Coal Power Generation Redistributes U.S. Air Quality and Climate Related Mortality Risk, 2023, Nature Energy. [https://doi.org/10.1038/s41560-023-01241-8](https://doi.org/10.1038/s41560-023-01241-8) (openly available [read-only version](https://rdcu.be/c9yPn))  
 
 Garima Raheja, Leatra Harper, Ana Hoffman, Yuri Gorby, **Freese, L.M.**, Brendan O’Leary, Melissa Goodwin, Daniel M. Westervelt. Community-Based Participatory Research for Low-Cost Air Pollution Monitoring in the Wake of Unconventional Oil and Gas Development in the Ohio River Valley - Empowering Impacted Residents through Community Science, 2022, Environmental Research Letters*. [doi.org/10.1088/1748-9326/ac6ad6](https://iopscience.iop.org/article/10.1088/1748-9326/ac6ad6). 
 
