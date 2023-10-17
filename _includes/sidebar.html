@@ -6,7 +6,7 @@
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-             max-width: 300px;
+             max-width: 600px;
              border-radius: 0%;
             
             @include breakpoint($large) {
