@@ -9,7 +9,7 @@ header:
   tagline: Climate, Air, and Equity
 
 ---
-I am the Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals of, impacts of, and equitable adaptation to Global Environmental Change. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology with an educational background in atmospheric chemistry, climate physics, and environmental policy.
+I am a Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals of, impacts of, and equitable adaptation to Global Environmental Change. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology with an educational background in atmospheric chemistry, climate physics, and environmental policy.
 
 I research the intersection of **social and earth systems, at local and global scales**, bringing together *atmospheric chemistry*, *climate physics*, *energy systems*, *justice*, *health* and *policy*. I am passionate about **policy-oriented work**, **community-based science**, and applications of **systems modeling to ensure a just transition**, while also working to improve our understanding of the **fundamentals of earth science**. I am excited by how much the applied and fundamental earth sciences can inform each other. 
 
