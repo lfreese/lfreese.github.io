@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/headshot.JPG"
+  avatar : "/assets/images/headshot.jpg"
   links:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
