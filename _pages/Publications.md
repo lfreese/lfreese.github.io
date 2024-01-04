@@ -7,11 +7,11 @@ title: "Publications"
 
 ### In Review/Revision
 
-**Freese, L. M.**, Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to CO$_2$ Emissions, *Submitted*.
+**Freese, L. M.**, Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to $\text{CO}_2$ Emissions, *In Revision for GRL*.
 
 ### In Preparation
 
-**Freese, L.M.**, Caldeira, K. Country to Country Infliction of Climate Damages, *in prep for Nature*.
+**Freese, L.M.**, Davis, S., Virgüez, E., Caldeira, K. Country to Country Infliction of Climate Damages, *in prep for Nature*.
 
 **Freese, L. M.**, Han Springer, C., Eastham, S., Selin, N. Ensembles of Early Coal Retirement Trajectories In Southeast Asia-- Air Quality, Health, and Climate Impacts through a Reduced Form Black Carbon Model, *in prep for Environmental Research Letters*.
 
