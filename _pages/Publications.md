@@ -7,7 +7,7 @@ title: "Publications"
 
 ### In Review/Revision
 
-**Freese, L. M.**, Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to $\text{CO}_2$ Emissions, *In Revision for GRL*.
+**Freese, L. M.**, Giani, P., Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to CO<sub>2</sub>  Emissions, *In Revision for GRL*.
 
 ### In Preparation
 
@@ -21,7 +21,7 @@ title: "Publications"
 
 Garima Raheja, Leatra Harper, Ana Hoffman, Yuri Gorby, **Freese, L.M.**, Brendan O’Leary, Melissa Goodwin, Daniel M. Westervelt. Community-Based Participatory Research for Low-Cost Air Pollution Monitoring in the Wake of Unconventional Oil and Gas Development in the Ohio River Valley - Empowering Impacted Residents through Community Science, 2022, Environmental Research Letters*. [doi.org/10.1088/1748-9326/ac6ad6](https://iopscience.iop.org/article/10.1088/1748-9326/ac6ad6). 
 
-**Freese, L.M.**, Cronin, T.W. Antarctic Radiative and Temperature responses to a doubling of CO2, 2021, *Geophysical Research Letters*. [doi.org/10.1029/2021GL093676]( https://doi.org/10.1029/2021GL093676).(*[Second Place for the Wagner Award for Women in Atmsopheric Sciences](https://www.dri.edu/dri-recognizes-lily-hahn-as-the-2022-peter-b-wagner-memorial-award-winner-for-women-in-atmospheric-sciences/)*).
+**Freese, L.M.**, Cronin, T.W. Antarctic Radiative and Temperature responses to a doubling of CO<sub>2</sub>, 2021, *Geophysical Research Letters*. [doi.org/10.1029/2021GL093676]( https://doi.org/10.1029/2021GL093676).(*[Second Place for the Wagner Award for Women in Atmsopheric Sciences](https://www.dri.edu/dri-recognizes-lily-hahn-as-the-2022-peter-b-wagner-memorial-award-winner-for-women-in-atmospheric-sciences/)*).
 
 Ranganathan, M., Lalk, E., **Freese, L.M.**, Freilich, M.A., Wilcots, J., Duffy, M.L., Shivamoggi, R., Trends in the representation of women amongst geoscience faculty from 1999-2020: the long road towards gender parity, 2021, *AGU Advances*. [doi:10.1002/essoar.10506485.1](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021AV000436).
 
