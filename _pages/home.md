@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Home/
 hidden: true
 
 header:
