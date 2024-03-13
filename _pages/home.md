@@ -1,7 +1,7 @@
 ---
 permalink: /
 hidden: true
-toc: true
+
 header:
   image: /assets/images/IMG_7454.jpeg
   image_description: Person working with a temperature and air monitor in the desert
