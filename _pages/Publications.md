@@ -9,7 +9,7 @@ title: "Publications"
 
 **Freese, L.M.**, Davis, S., Virgüez, E., Caldeira, K. Country to Country Infliction of Climate Damages, *submitted*.
 
-**Freese, L. M.**, Giani, P., Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to CO<sub>2</sub>  Emissions, *In Review at GRL*.
+**Freese, L. M.**, Giani, P., Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to CO<sub>2</sub>  Emissions, *In revision for GRL*.
 
 ### In Preparation
 

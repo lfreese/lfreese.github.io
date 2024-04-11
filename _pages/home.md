@@ -6,7 +6,7 @@ header:
   image: /assets/images/IMG_7454.jpeg
   image_description: Person working with a temperature and air monitor in the desert
   caption: Community science work in the Gobi Desert, China 
-  tagline: Climate, Air, and Equity
+  tagline: Climate, Air, People
 
 ---
 I am a Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals, impacts, and mitigation of climate change and air pollution. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology with an educational background in atmospheric chemistry, climate physics, and environmental policy.
