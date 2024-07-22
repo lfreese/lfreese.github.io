@@ -4,8 +4,8 @@ hidden: true
 
 header:
   image: /assets/images/IMG_7454.jpeg
-  image_description: Person working with a temperature and air monitor in the desert
-  caption: Community science work in the Gobi Desert, China 
+  image_description: sunset view over a beach with a hill of california wildflowers in the foreground
+  caption: Sunset at Crystal Cove, CA-- 10 mins from UCI
   tagline: Climate, Air, People
 
 ---
