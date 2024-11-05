@@ -9,9 +9,7 @@ header:
   tagline: Climate, Air, People
 
 ---
-*I will be starting as an Assistant Professor in the Department of Earth System Science at the University of California Irvine in July, 2025. My research group will focus on the intersection of air quality, climate change, and human systems.*
-
-I am a Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals, impacts, and mitigation of climate change and air pollution. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology with an educational background in atmospheric chemistry, climate physics, and environmental policy.
+I am a Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals, impacts, and mitigation of climate change and air pollution. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology, where I worked with Noelle Selin on atmospheric chemistry, climate physics, and environmental policy.
 
 I research the intersection of **social and earth systems, at local and global scales**, bringing together *atmospheric chemistry*, *climate physics*, *energy systems*, and *human impacts*. I am passionate about **policy-oriented work**, **community-based science**, and applications of **systems modeling to ensure a just transition**, while also working to improve our understanding of the **fundamentals of earth science**. I am excited by just how much the applied and fundamental earth sciences can be used together! 
 
