@@ -6,7 +6,7 @@ header:
   image: /assets/images/IMG_7454.jpeg
   image_description: sunset view over a beach with a hill of california wildflowers in the foreground
   caption: Sunset at Crystal Cove, CA-- 10 mins from UCI
-  tagline: Climate, Air, People
+  tagline: Climate, Pollution, Solutions
 
 ---
 I am a Postdoctoral Research Fellow at the Carnegie Institution for Science at Stanford where I research the fundamentals, impacts, and mitigation of climate change and air pollution. I work in the [Climate-Energy Lab](https://climate-energy.org/) with Ken Caldeira. I obtained my PhD in Atmospheric Science at the Massachusetts Institute of Technology, where I worked with Noelle Selin on atmospheric chemistry, climate physics, and environmental policy.
