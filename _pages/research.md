@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Climate, Air, People"
+title: "Climate, Pollution, Solutions"
 ---
  I research the fundamentals of, impacts of, and equitable adaptation to Global Environmental Change. This lies at the intersection of fundamental climate science, energy policy and impacts, and equity informed sustainability solutions. I focus on multiple spatial scales, from local communities, to national and global assessments. My research informs tools and solutions that can aid in policy-making and solutions to improve environmental equity, reduce the impacts of climate change, and incorporate sustainable development. As someone trained in both the social and earth sciences I am excited by opportunities to bring together fundamental and applied science so we can answer questions in new ways.
 
