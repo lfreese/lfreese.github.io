@@ -7,15 +7,14 @@ title: "Publications"
 
 ### In Review/Revision
 
-**Freese, L.M.**, Davis, S., Virgüez, E., Caldeira, K. Country to Country Infliction of Climate Damages, *in revision*.
+**Freese, L.M.**, Davis, S., Virgüez, E., Caldeira, K. Country Country-Level Distribution of Trillions of Dollars in Future Climate Damages from Current Annual Emissions, *under review*.
 
 ### In Preparation
-
-**Freese, L.M.**, Caldeira, K. Detectability of Temperature Response to a Zeroing of CO<sub>2</sub> Emissions, *in prep*.
 
 **Freese, L. M.**, Han Springer, C., Eastham, S., Selin, N. Ensembles of Early Coal Retirement Trajectories In Southeast Asia-- Air Quality, Health, and Climate Impacts through a Reduced Form Black Carbon Model, *in prep*.
 
 ### Published
+Duffy, M., Barnes, L., Wirz, C., Ranganathan, M., Freilich, M., **Freese, L.M.**, Lalk, E., Wilcots, J. Factors influencing underrepresented geoscientists' decisions to accept or decline faculty job offers in the US. Nature Communications Earth and Environment. [https://doi.org/10.1038/s43247-025-02052-3](https://doi.org/10.1038/s43247-025-02052-3)
 
 **Freese, L. M.**, Giani, P., Fiore, A.M., Selin, N.E. Spatially Resolved Temperature Response Functions to CO<sub>2</sub>  Emissions, Geophysical Research Letters. [https://doi.org/10.1029/2024GL108788](https://doi.org/10.1029/2024GL108788).
 
